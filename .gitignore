@@ -1,0 +1,5 @@
+## .env (Contraseñas y datos personales)
+.env
+
+node_modules/
+.vscode/
